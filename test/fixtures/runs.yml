@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  distance: 9.99
+  time: 9.99
+  date: 2017-01-25 16:28:03
+  user: one
+
+two:
+  distance: 9.99
+  time: 9.99
+  date: 2017-01-25 16:28:03
+  user: two
